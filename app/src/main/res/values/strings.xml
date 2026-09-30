@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flowseal Zapret</string>
+    <string name="vpn_channel_id">zapret_service_channel</string>
+    <string name="vpn_channel_name">Служба обхода DPI</string>
+    <string name="vpn_running">Защита активна</string>
+    <string name="vpn_running_desc">Трафик десинхронизируется для обхода блокировок</string>
+</resources>
